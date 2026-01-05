@@ -30,6 +30,13 @@
   cursor: pointer;
 }
 
+.contact-btn {
+  background-color: #fff8f3;
+  border: 1px solid #fd6e0a;
+  color: #fd6e0a;
+  margin-left: 25px;
+}
+
 .section-heading {
   max-width: 827px;
   text-align: center;
@@ -59,7 +66,7 @@ header {
   background-color: #fff8f3;
   background: url('../images/developer.png'), url('/images/header_bg.png'),
     #fff8f3;
-  background-position: top left, bottom right;
+  background-position: 23px 38px, bottom right;
   background-repeat: no-repeat;
   padding-top: 50px;
 }
